@@ -1,0 +1,216 @@
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.exe
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.deps.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.runtimeconfig.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.pdb
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.PessoaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PessoaAPI.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PessoaAPI.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PessoaAPI.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\scopedcss\bundle\PessoaAPI.styles.css
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CopyComplete
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\refint\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.pdb
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\obj\Debug\net6.0\ref\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.exe
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.deps.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.runtimeconfig.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.pdb
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.PessoaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PessoaAPI.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PessoaAPI.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PessoaAPI.props
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\scopedcss\bundle\PessoaAPI.styles.css
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CopyComplete
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\refint\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.pdb
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\ref\PessoaAPI.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thiag\Desktop\Thiago\Desafio Senior\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.exe
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.deps.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.runtimeconfig.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.pdb
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.AssemblyReference.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfoInputs.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfo.cs
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CoreCompileInputs.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.PessoaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PessoaAPI.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PessoaAPI.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PessoaAPI.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\scopedcss\bundle\PessoaAPI.styles.css
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CopyComplete
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\refint\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.pdb
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.genruntimeconfig.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\ref\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.AssemblyReference.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfoInputs.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.AssemblyInfo.cs
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CoreCompileInputs.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\refint\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.pdb
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.exe
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.deps.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.runtimeconfig.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\PessoaAPI.pdb
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.PessoaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PessoaAPI.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PessoaAPI.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PessoaAPI.props
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\scopedcss\bundle\PessoaAPI.styles.css
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.csproj.CopyComplete
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\PessoaAPI.genruntimeconfig.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\obj\Debug\net6.0\ref\PessoaAPI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\NBitcoin.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\FluentNHibernate.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Iesi.Collections.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\NHibernate.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Remotion.Linq.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Desafio\DesafioSenior-main\Desafio1\PessoaAPI\PessoaAPI\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
