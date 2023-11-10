@@ -49,7 +49,6 @@ public class PessoaService
 
     private string FormatarCPF(string cpf) // 123.456.789-00
     {
-        return null;
-            //; retirar . e -
+        return cpf.Replace(".", "").Replace("-",""); // ver funcionamento do replace e fazer testes
     }
 }

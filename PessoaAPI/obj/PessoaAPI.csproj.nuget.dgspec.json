@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hevel\\OneDrive\\Área de Trabalho\\Programação\\C#\\Desafio\\DesafioSenior-main\\Desafio1\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj": {}
+    "C:\\Users\\hevel\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hevel\\OneDrive\\Área de Trabalho\\Programação\\C#\\Desafio\\DesafioSenior-main\\Desafio1\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj": {
+    "C:\\Users\\hevel\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hevel\\OneDrive\\Área de Trabalho\\Programação\\C#\\Desafio\\DesafioSenior-main\\Desafio1\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\hevel\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj",
         "projectName": "PessoaAPI",
-        "projectPath": "C:\\Users\\hevel\\OneDrive\\Área de Trabalho\\Programação\\C#\\Desafio\\DesafioSenior-main\\Desafio1\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj",
+        "projectPath": "C:\\Users\\hevel\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj",
         "packagesPath": "C:\\Users\\hevel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hevel\\OneDrive\\Área de Trabalho\\Programação\\C#\\Desafio\\DesafioSenior-main\\Desafio1\\PessoaAPI\\PessoaAPI\\obj\\",
+        "outputPath": "C:\\Users\\hevel\\PessoaAPI\\PessoaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hevel\\AppData\\Roaming\\NuGet\\NuGet.Config",

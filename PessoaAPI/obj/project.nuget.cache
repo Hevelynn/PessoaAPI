@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zwDBzPThNVp+kqK9Slz9sUX4k14usKZ/tQR4Z07PDq2W8J1Bnq2qeJhu+Jbnz5WmeumNqKaF1kFrh+LXp9R99Q==",
+  "dgSpecHash": "79SQuxl775wDk7iBq3yTR6oIZfW2g7oe0hlc32B4WX2VRUMAsPeK+iup6e0/3O7/F7H3s2IT2I8ICvs+wqWNrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hevel\\OneDrive\\Área de Trabalho\\Programação\\C#\\Desafio\\DesafioSenior-main\\Desafio1\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj",
+  "projectFilePath": "C:\\Users\\hevel\\PessoaAPI\\PessoaAPI\\PessoaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hevel\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\hevel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
